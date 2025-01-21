@@ -22,7 +22,7 @@ import subprocess
 import sys
 import time
 from copy import deepcopy
-from datetime import datetime, timedelta
+from datetime import datetime, timedelt
 from pathlib import Path
 
 try:
